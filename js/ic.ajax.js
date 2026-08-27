@@ -1,17 +1,3 @@
-/**
-	Abstract : Ajax Page Js File
-	File : ic.ajax.js
-	#CSS attributes: 
-		.icForm : Form class for ajax submission. 
-		.icFormMsg  : Div Class| Show Form validation error/success message on ajax form submission
-		
-	#Javascript Variable
-	.icRes : ajax request result variable
-	.icFormAction : Form action variable
-	.icFormData : Form serialize data variable
-
-**/
-
 function contactForm()
 {
 	
