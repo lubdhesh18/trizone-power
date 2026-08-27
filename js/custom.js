@@ -1,14 +1,3 @@
-
-/**
-	Template Name 	 : EcoSun
-	Author			 : IndianCoder
-	Version			 : 1.0
-	File Name	     : custom.js
-	Author Portfolio : https://templatelelo.com/author/profile/indiancoder 
-	
-	Core script to handle the entire theme and core functions
-**/
-
 var EcoSun = function(){
 	'use strict';
 	
